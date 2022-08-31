@@ -7,26 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/saltiola7" target="blank"><img src="https://img.shields.io/twitter/follow/saltiola7?logo=twitter&style=for-the-badge" alt="saltiola7" /></a> </p>
 
-<style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tommisaltiola" target="_blank">Follow on LinkedIn</a>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7af1fc4e-050b-4b48-a1d5-9d8eccce116f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 - 🔭 I’m currently working on [home/officelab and portable server setup](https://github.com/Saltiola7/homelab-casa)
 
