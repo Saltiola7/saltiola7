@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/saltiola7" target="blank"><img src="https://img.shields.io/twitter/follow/saltiola7?logo=twitter&style=for-the-badge" alt="saltiola7" /></a> </p>
 
+Follow me on [LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tommisaltiola)
 
 - 🔭 I’m currently working on [home/officelab and portable server setup](https://github.com/Saltiola7/homelab-casa)
 
