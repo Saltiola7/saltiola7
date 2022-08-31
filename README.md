@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **saltiola@protonmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/sh/n9aaha4rnu52kph/AABVgfBwoHuVIsCii9GMVG3ea?dl=0](https://www.dropbox.com/sh/n9aaha4rnu52kph/AABVgfBwoHuVIsCii9GMVG3ea?dl=0)
+- 📄 Check about my [résumé](https://github.com/Saltiola7/resume/blob/main/resume.pdf)
 
 - ⚡ Fun fact **I'm INFJ-A personality type.**
 
