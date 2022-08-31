@@ -17,8 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [https://tommisaltiola.com/](https://tommisaltiola.com/)
 
-- 📝 I regularly write articles on [https://tommisaltiola.com/blog](https://tommisaltiola.com/blog)
-
 - 💬 Ask me about **Cannabis, Cryptocurrency, Investing & Business Management**
 
 - 📫 How to reach me **saltiola@protonmail.com**
