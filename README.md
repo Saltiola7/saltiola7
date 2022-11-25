@@ -21,8 +21,7 @@
 
 - 📫 How to reach me **saltiola@protonmail.com**
 
-- 📄 Check my [résumé](Check new one [from here](https://www.dropbox.com/s/y2fvdhox9xzu715/tommi-saltiola-mba-psm-cv.docx?dl=0)
-)
+- 📄 Check my [résumé from here](https://www.dropbox.com/s/y2fvdhox9xzu715/tommi-saltiola-mba-psm-cv.docx?dl=0)
 
 - ⚡ Fun fact **I'm INFJ-A personality type.**
 
