@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [home/officelab and portable server setup](https://github.com/Saltiola7/homelab-casa)
 
-- 🌱 I’m currently learning **proxmox, sql, numpy, matplolib, pandas, seaborn, scrapy, tableau**
+- 🌱 I’m currently learning **sql, numpy, matplolib, pandas, seaborn, scrapy, tableau, docker**
 
 - 👯 I’m looking to collaborate on **cannabis & Cryptocurrency projects**
 
@@ -21,7 +21,8 @@
 
 - 📫 How to reach me **saltiola@protonmail.com**
 
-- 📄 Check my [résumé](https://github.com/Saltiola7/resume/blob/main/resume.pdf)
+- 📄 Check my [résumé](Check new one [from here](https://www.dropbox.com/s/y2fvdhox9xzu715/tommi-saltiola-mba-psm-cv.docx?dl=0)
+)
 
 - ⚡ Fun fact **I'm INFJ-A personality type.**
 
