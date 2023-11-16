@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/saltiola7" target="blank"><img src="https://img.shields.io/twitter/follow/saltiola7?logo=twitter&style=for-the-badge" alt="saltiola7" /></a> </p>
 
-- 🔭 I’m currently working on Webflow and Odoo projects
-- 🌱 I’m currently learning JavaScript and Python
-- 🤝 I’m open for **AI and Webflow projects** projects
+- 🔭 I’m currently working on web and data projects
+- 🌱 I’m concentrating on Webflow, Wordpress and Python
+- 🤝 I’m open for projects
 - 👨‍💻 Learn more about me [tommisaltiola.com](https://tommisaltiola.com/)
 - 📫 How to reach me **tommi@tommisaltiola.com**
 - ⚡ Fun fact **I'm INFJ-A personality type.**
