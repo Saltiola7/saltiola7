@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tommi Saltiola</h1>
-<h3 align="center">A passionate Product Owner and Developer in Web, UX/UI, Data Engineering & Growth Hackingfrontend developer from India</h3>
+<h3 align="center">A passionate Product Owner and Developer in Web, UX/UI, Data Engineering & Growth Hacking</h3>
 
 - 🔭 I’m currently working on [Web Scraper ETL Pipeline](http://github.com/Saltiola7/Data-Analysis-Portfolio/tree/main/Web%20Scraper%20ETL)
 
