@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [http://github.com/Saltiola7/Data-Analysis-Portfolio](http://github.com/Saltiola7/Data-Analysis-Portfolio)
 
-- My Website [https://tommisaltiola.com](https://tommisaltiola.com)
+- My Website [https://tommisaltiola.com](tommisaltiola.com)
 
 - 💬 Ask me about **Python or Webflow**
 
 - 📫 How to reach me **tommi@tommisaltiola.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KhDKJDGzSwEilS4YqpEJVy6Ok2kSub1g/view?usp=drive_link](https://drive.google.com/file/d/1KhDKJDGzSwEilS4YqpEJVy6Ok2kSub1g/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KhDKJDGzSwEilS4YqpEJVy6Ok2kSub1g/view?usp=drive_link](cv)
 
 - ⚡ Fun fact **INFJ-A**
 
