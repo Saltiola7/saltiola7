@@ -7,15 +7,17 @@
 
 - 👯 I’m looking to collaborate on **Data, Web, GenAI, ML & Cannabis Sativa L.**
 
-- 👨‍💻 All of my projects are available at [http://github.com/Saltiola7/Data-Analysis-Portfolio](http://github.com/Saltiola7/Data-Analysis-Portfolio)
+- 👨‍💻 All of my data projects are available at [Data Portfolio](http://github.com/Saltiola7/Data-Analysis-Portfolio)
 
-- My Website [https://tommisaltiola.com](tommisaltiola.com)
+- All of my web & SEO projects are available at [Web Portfolio](https://docs.google.com/document/d/1xyryGqm99TebB-OYSMggbRI-rnY7qn47Yh8AL-TYg6A/edit?usp=sharing) 
+
+- My Website [tommisaltiola.com](https://tommisaltiola.com)
 
 - 💬 Ask me about **Python or Webflow**
 
 - 📫 How to reach me **tommi@tommisaltiola.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KhDKJDGzSwEilS4YqpEJVy6Ok2kSub1g/view?usp=drive_link](cv)
+- 📄 Know about my experiences [cv](https://drive.google.com/file/d/1KhDKJDGzSwEilS4YqpEJVy6Ok2kSub1g/view?usp=drive_link)
 
 - ⚡ Fun fact **INFJ-A**
 
