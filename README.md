@@ -11,7 +11,7 @@
 
 - All of my web & SEO projects are available at [Web Portfolio](https://docs.google.com/document/d/1xyryGqm99TebB-OYSMggbRI-rnY7qn47Yh8AL-TYg6A/edit?usp=sharing) 
 
-- My Website [https://tommisaltiola.com](https://tommisaltiola.com)
+- My Website [https://tommisaltiola.com](tommisaltiola.com)
 
 - 💬 Ask me about **Python or Webflow**
 
