@@ -1,27 +1,18 @@
 <h1 align="center">Hi 👋, I'm Tommi Saltiola</h1>
 <h3 align="center">A passionate Product Owner and Developer in Web, UX/UI, Data Engineering & Growth Hacking</h3>
 
-- 🔭 I’m currently working on [Web Scraper ETL Pipeline](http://github.com/Saltiola7/Data-Analysis-Portfolio/tree/main/Web%20Scraper%20ETL)
 
-- 🌱 I’m currently learning **Playwright browser automation**
+- 👯 I’m looking to collaborate on **Data, Web, LLM/ML**
 
-- 👯 I’m looking to collaborate on **Data, Web, GenAI, ML & Cannabis Sativa L.**
+- 👨‍💻 Some of my data projects are available at in my repositories [and some on my website](https://tommisaltiola.com) 
 
-- 👨‍💻 All of my data projects are available at [Data Portfolio](http://github.com/Saltiola7/Data-Analysis-Portfolio)
-
-- All of my web & SEO projects are available at [Web Portfolio](https://docs.google.com/document/d/1xyryGqm99TebB-OYSMggbRI-rnY7qn47Yh8AL-TYg6A/edit?usp=sharing) 
-
-- My Website [tommisaltiola.com](tommisaltiola.com)
-
-- 💬 Ask me about **Python or Webflow/Figma**
+- 💬 Ask me about **Python or Web Development**
 
 - 📫 How to reach me **tommi@tommisaltiola.com**
 
-- 📄 Know about my experiences [cv](https://drive.google.com/file/d/1KhDKJDGzSwEilS4YqpEJVy6Ok2kSub1g/view?usp=drive_link)
-
 - ⚡ Fun facts:
   - **INFJ-A** Personality type
-  - Using Colemak DH keyboard layout
+  - Colemak DH keyboard layout with ZSA Moonlander
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
