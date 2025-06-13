@@ -1,18 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tommi Saltiola</h1>
-<h3 align="center">A passionate Product Owner and Developer in Web, UX/UI, Data Engineering & Growth Hacking</h3>
-
-
-- 👯 I’m looking to collaborate on **Data, Web, LLM/ML**
-
-- 👨‍💻 Some of my data projects are available at in my repositories [and some on my website](https://tommisaltiola.com) 
-
-- 💬 Ask me about **Python or Web Development**
-
-- 📫 How to reach me **tommi@tommisaltiola.com**
-
-- ⚡ Fun facts:
-  - **INFJ-A** Personality type
-  - Colemak DH keyboard layout with ZSA Moonlander
+<h3 align="center">SEO & Data Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
